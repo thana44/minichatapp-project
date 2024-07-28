@@ -1,0 +1,21 @@
+{
+    "name": "tnpChat",
+    "short_name": "tnpChat",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#bebebe",
+    "theme_color": "#bebebe",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/src/icons/192.png",
+            "sizes": "192*192",
+            "type": "image/png"
+        },
+        {
+            "src": "/src/icons/512.png",
+            "sizes": "512*512",
+            "type": "image/png"
+        }
+    ]
+}
